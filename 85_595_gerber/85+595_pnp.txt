@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=85+595
+*Date=20:10:12
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;15.3906;-18.858;0;Bottom;Via4
+2;;;23.5906;-17.558;0;Bottom;Via3
+3;;SO16 [SMD];8.66403;-9.39671;90;Top;U2
+4;;1x08;28.0906;-10.648;-180;Bottom;U6
+5;;;8.39063;-15.9579;0;Bottom;Via1
+6;;;20.9908;-10.558;0;Bottom;Via8
+7;;;15.3906;-6.65796;0;Bottom;Via6
+8;;;11.7906;-14.8579;0;Bottom;Via5
+9;;;9.89061;-10.0581;0;Bottom;Via7
+10;;;15.3906;-10.958;0;Bottom;Via9
+11;;;19.5994;-12.3464;0;Bottom;Via11
+12;;SO16 [SMD];20.5255;-11.1243;-90;Top;U3
+13;;;19.5906;-3.85796;0;Bottom;Via12
+14;;;8.29061;-5.05792;0;Bottom;Via2
+15;;SO 08 [SMD];8.66403;-17.7761;90;Top;U4
+16;;1x08;1.59062;-10.568;0;Bottom;U5
+17;;;15.3906;-14.758;0;Bottom;Via10
